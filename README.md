@@ -1,4 +1,4 @@
-### Proyecto Java Web /  SpringMVC 
+### Proyecto JAVA Web /  SpringMVC 
 - #### Login - Registro de Usuario (Con Base de datos)
 
 ![Inicio Sesión - Internet Explorer 4_2_2022 22_24_49](https://user-images.githubusercontent.com/88462536/152623772-fa16f448-c6bf-4393-84b2-c630c94828c7.png)
